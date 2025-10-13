@@ -1,0 +1,22 @@
+(cl:in-package px4_msgs-msg)
+(cl:export '(TIMESTAMP-VAL
+          TIMESTAMP
+          TIMESTAMP_SAMPLE-VAL
+          TIMESTAMP_SAMPLE
+          DONE_COUNT-VAL
+          DONE_COUNT
+          CALIBRATION_POINTS_PERSIDE-VAL
+          CALIBRATION_POINTS_PERSIDE
+          CALIBRATION_INTERVAL_PERSIDE_US-VAL
+          CALIBRATION_INTERVAL_PERSIDE_US
+          CALIBRATION_COUNTER_TOTAL-VAL
+          CALIBRATION_COUNTER_TOTAL
+          SIDE_DATA_COLLECTED-VAL
+          SIDE_DATA_COLLECTED
+          X-VAL
+          X
+          Y-VAL
+          Y
+          Z-VAL
+          Z
+))

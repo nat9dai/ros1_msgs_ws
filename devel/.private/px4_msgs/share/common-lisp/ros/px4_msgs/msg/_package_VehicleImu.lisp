@@ -1,0 +1,22 @@
+(cl:in-package px4_msgs-msg)
+(cl:export '(TIMESTAMP-VAL
+          TIMESTAMP
+          TIMESTAMP_SAMPLE-VAL
+          TIMESTAMP_SAMPLE
+          ACCEL_DEVICE_ID-VAL
+          ACCEL_DEVICE_ID
+          GYRO_DEVICE_ID-VAL
+          GYRO_DEVICE_ID
+          DELTA_ANGLE-VAL
+          DELTA_ANGLE
+          DELTA_VELOCITY-VAL
+          DELTA_VELOCITY
+          DELTA_ANGLE_DT-VAL
+          DELTA_ANGLE_DT
+          DELTA_VELOCITY_DT-VAL
+          DELTA_VELOCITY_DT
+          DELTA_VELOCITY_CLIPPING-VAL
+          DELTA_VELOCITY_CLIPPING
+          CALIBRATION_COUNT-VAL
+          CALIBRATION_COUNT
+))

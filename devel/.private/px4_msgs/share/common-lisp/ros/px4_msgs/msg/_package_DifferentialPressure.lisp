@@ -1,0 +1,14 @@
+(cl:in-package px4_msgs-msg)
+(cl:export '(TIMESTAMP-VAL
+          TIMESTAMP
+          ERROR_COUNT-VAL
+          ERROR_COUNT
+          DIFFERENTIAL_PRESSURE_RAW_PA-VAL
+          DIFFERENTIAL_PRESSURE_RAW_PA
+          DIFFERENTIAL_PRESSURE_FILTERED_PA-VAL
+          DIFFERENTIAL_PRESSURE_FILTERED_PA
+          TEMPERATURE-VAL
+          TEMPERATURE
+          DEVICE_ID-VAL
+          DEVICE_ID
+))

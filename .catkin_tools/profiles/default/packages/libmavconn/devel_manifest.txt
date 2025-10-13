@@ -1,0 +1,6 @@
+mavros/libmavconn
+/root/ros1_msgs_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /root/ros1_msgs_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/root/ros1_msgs_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /root/ros1_msgs_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+/root/ros1_msgs_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /root/ros1_msgs_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/root/ros1_msgs_ws/devel/.private/libmavconn/lib/libmavconn.so /root/ros1_msgs_ws/devel/lib/libmavconn.so
+/root/ros1_msgs_ws/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /root/ros1_msgs_ws/devel/lib/pkgconfig/libmavconn.pc

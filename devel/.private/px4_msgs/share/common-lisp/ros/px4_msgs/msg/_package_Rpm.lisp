@@ -1,0 +1,8 @@
+(cl:in-package px4_msgs-msg)
+(cl:export '(TIMESTAMP-VAL
+          TIMESTAMP
+          INDICATED_FREQUENCY_RPM-VAL
+          INDICATED_FREQUENCY_RPM
+          ESTIMATED_ACCURANCY_RPM-VAL
+          ESTIMATED_ACCURANCY_RPM
+))

@@ -1,0 +1,5 @@
+Symlinking /root/ros1_msgs_ws/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+Symlinking /root/ros1_msgs_ws/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
+Symlinking /root/ros1_msgs_ws/devel/lib/libmavros_sitl_test.so
+Symlinking /root/ros1_msgs_ws/devel/lib/pkgconfig/test_mavros.pc
+Symlinking /root/ros1_msgs_ws/devel/lib/test_mavros/sitl_test_node
