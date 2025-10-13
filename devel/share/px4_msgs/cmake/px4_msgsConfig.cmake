@@ -1,1 +1,0 @@
-/root/ros1_msgs_ws/devel/.private/px4_msgs/share/px4_msgs/cmake/px4_msgsConfig.cmake

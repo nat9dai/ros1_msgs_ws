@@ -1,1 +1,0 @@
-/root/ros1_msgs_ws/devel/.private/px4_msgs/lib/python3/dist-packages/px4_msgs/msg/_GpsInjectData.py

@@ -1,5 +1,0 @@
-Symlinking /root/ros1_msgs_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
-Symlinking /root/ros1_msgs_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
-Symlinking /root/ros1_msgs_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
-Symlinking /root/ros1_msgs_ws/devel/lib/libmavconn.so
-Symlinking /root/ros1_msgs_ws/devel/lib/pkgconfig/libmavconn.pc

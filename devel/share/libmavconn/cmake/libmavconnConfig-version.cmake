@@ -1,1 +1,0 @@
-/root/ros1_msgs_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake
