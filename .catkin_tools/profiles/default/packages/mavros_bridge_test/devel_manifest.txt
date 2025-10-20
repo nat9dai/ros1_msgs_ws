@@ -1,0 +1,4 @@
+mavros_bridge_test
+/root/ros1_msgs_ws/devel/.private/mavros_bridge_test/share/mavros_bridge_test/cmake/mavros_bridge_testConfig-version.cmake /root/ros1_msgs_ws/devel/share/mavros_bridge_test/cmake/mavros_bridge_testConfig-version.cmake
+/root/ros1_msgs_ws/devel/.private/mavros_bridge_test/share/mavros_bridge_test/cmake/mavros_bridge_testConfig.cmake /root/ros1_msgs_ws/devel/share/mavros_bridge_test/cmake/mavros_bridge_testConfig.cmake
+/root/ros1_msgs_ws/devel/.private/mavros_bridge_test/lib/pkgconfig/mavros_bridge_test.pc /root/ros1_msgs_ws/devel/lib/pkgconfig/mavros_bridge_test.pc
