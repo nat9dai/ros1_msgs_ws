@@ -55,7 +55,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate services in the 'srv' folder
 add_service_files(
   FILES
-  VehicleCommand.srv
+  VehicleCommandSrv.srv
 )
 
 ## Generate actions in the 'action' folder
@@ -106,7 +106,7 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES px4_msgs
- CATKIN_DEPENDS message_generation std_msgs
+ CATKIN_DEPENDS message_runtime std_msgs
 #  DEPENDS system_lib
 )
 
